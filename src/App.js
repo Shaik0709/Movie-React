@@ -24,7 +24,7 @@ const App = () => {
     return (
         
         <div className="app">
-            <h1>CIN3 POP  </h1>
+            <h1>CIN3 PP  </h1>
 
             <div className="search">
                 <input
